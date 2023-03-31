@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<nxparser.version>3.0.0-SNAPSHOT</nxparser.version>
+		<nxparser.version>3.0.0</nxparser.version>
 		<jersey.version>2.28</jersey.version>
 	</properties>
 	<url>http://maven.apache.org</url>
